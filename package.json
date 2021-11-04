@@ -10,16 +10,16 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "chalk": "^4.1.2",
     "eslint": "^7.32.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-import": "^2.25.2",
-    "nodemon": "^2.0.14"
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.14",
+    "chalk": "^4.1.2",
+    "debug": "^4.3.2"
   },
   "dependencies": {
-    "debug": "^4.3.2",
-    "dotenv": "^10.0.0",
-    "morgan": "^1.10.0"
+    "dotenv": "^10.0.0"
   }
 }
